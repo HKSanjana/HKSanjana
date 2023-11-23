@@ -1,6 +1,10 @@
+<img src="https://static.wixstatic.com/media/456e21_7d2e873852a54d37943be3df62f1aa07~mv2.gif" width="1500" height="300" alt="Logo">
+
+
 <h1 align="center">Hi 👋, I'm Sanjana Kavindi</h1>
 <h3 align="center">"In Love with Code and Colors | Sri Lankan Frontend Wizard" 💻🌈"</h3>
-<img align="right" alt="coding" width+"400" src="[scaler-create-impact](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hksanjana&label=Profile%20views&color=0e75b6&style=flat" alt="hksanjana" /> </p>
 
