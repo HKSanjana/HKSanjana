@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NSBM Green University**
 
-- 👯 I’m looking to collaborate on **👋 Hey there! Frontend enthusiast from Sri Lanka 🇮🇳 | Currently open to collaboration and eager to contribute to exciting projects. Passionate about finding the best solutions to challenges. Let's connect, learn, and create together! 💡💻"**
+- 👯 I’m looking to collaborate on **👋 Hey there! Frontend enthusiast from Sri Lanka 🇱🇰| Currently open to collaboration and eager to contribute to exciting projects. Passionate about finding the best solutions to challenges. Let's connect, learn, and create together! 💡💻"**
 
 - 📫 How to reach me **Sanjanakavindi74@gmail.com**
 
